@@ -1,0 +1,2 @@
+# IntroductionTo3DGameProgrammingWithDirectX12Cn
+A translation of "IntroductionTo3DGameProgrammingWithDirectX12" in Chinese
